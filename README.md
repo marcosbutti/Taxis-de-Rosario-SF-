@@ -1,5 +1,6 @@
 # 🚖 Taxis de Rosario (SF)
 _Análisis de los taxis de la ciudad de Rosario (Santa Fe) con datos extraídos del portal de Datos Abiertos de la ciudad._
+[Detalles](https://github.com/marcosbutti/Taxis-de-Rosario-SF-/blob/main/Taxis_Rosario.ipynb)
 
 * Podemos ver un pantallazo sobre temas relevantes en el presente y que lo serán aún más. La paridad de género y el cuidado del medio ambiente son importantes, y para conocer la situación y mejorarla hay que tener en cuenta datos que nos guíen. 
 
